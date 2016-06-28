@@ -4,7 +4,10 @@
  * gcc -c simple_section.c
  */
 
+/*test for git commit*/
+
 int printf(const char* format, ...);
+
 
 int global_init_var = 84;
 int global_uninit_var;
